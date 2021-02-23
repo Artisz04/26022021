@@ -1,0 +1,34 @@
+.virsraksti{
+  color: rgba(43, 138, 43, 0.836);
+  text-align: center;
+  font-family:fantasy;
+}
+.virsraksti2{
+  color:rgba(8, 131, 8, 0.884);
+  text-align: center;
+}
+.virsraksti3{
+  color: rgba(43, 138, 43, 0.836);
+  text-align: center;
+  font-size: 18px;
+  font-family:sans-serif;
+}
+#saraksts{
+  color:rgba(9, 5, 231, 0.911);
+  background-color:rgba(71, 68, 65, 0.089);
+}
+#izcelums{
+  color:rgba(228, 7, 7, 0.61);
+  text-align: center;
+}
+img{
+  width:260px;
+  height:180px;
+  border:8px solid rgb(212, 136, 155);
+  padding: 5px;
+  margin: 50px 10px;
+  outline:rgba(8, 240, 8, 0.884) solid 3px;
+}
+p{
+  text-align: center;
+}
